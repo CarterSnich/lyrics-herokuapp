@@ -6,7 +6,7 @@
   </head>
   
   <body>
-    <a href="index.html">Go back to menu</a>
+    <a href="index.php">Go back to menu</a>
     <div id="song4">
       <h3>Dynamite<br>by BTS</h3> 
 <pre>              

@@ -6,7 +6,7 @@
   </head>
   
   <body>
-    <a href="index.html">Go back to menu</a>
+    <a href="index.php">Go back to menu</a>
     <div id="song2">
       <h3>Beautiful Scars<br>by MAXIMILLIAN</h3> 
 <pre>

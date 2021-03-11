@@ -6,7 +6,7 @@
   </head>
   
   <body>
-    <a href="index.html">Go back to menu</a>
+    <a href="index.php">Go back to menu</a>
     <div id="song3">
       <h3>10, 000 Hours<br>by Dan+Shay & Justin Bieber</h3> 
 <pre>

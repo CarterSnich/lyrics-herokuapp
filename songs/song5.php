@@ -6,7 +6,7 @@
   </head>
   
   <body>
-    <a href="index.html">Go back to menu</a>
+    <a href="index.php">Go back to menu</a>
     <div id="song5">
       <h3>eight (에잇)<br>by feat. SUGA (BTS)</h3> 
 <pre>
