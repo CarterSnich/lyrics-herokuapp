@@ -8,11 +8,11 @@
   <body>
     <div id="menu">    
       <h4>Click a song title: </h4>
-      <a href="song1.php">Malibu Nights</a><br>
-      <a href="song2.php">Beautiful Scars</a><br>
-      <a href="song3.php">10, 000 Hours</a><br>
-      <a href="song4.php">Dynamite</a><br>
-      <a href="song5.php">eight (에잇)</a><br>
+      <a href="./songs/song1.php">Malibu Nights</a><br>
+      <a href="./songs/song2.php">Beautiful Scars</a><br>
+      <a href="./songs/song3.php">10, 000 Hours</a><br>
+      <a href="./songs/song4.php">Dynamite</a><br>
+      <a href="./songs/song5.php">eight (에잇)</a><br>
     </div>
   </body>
   
